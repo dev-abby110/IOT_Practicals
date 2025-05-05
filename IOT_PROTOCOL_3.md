@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78aa1815-9c01-4e06-941a-bdbba62708c1)# Study of IoT Communication Protocols 
+# Study of IoT Communication Protocols 
 
 ## Aim
 To understand and implement various IoT communication protocols including Wi-Fi, Bluetooth, ZigBee, and LoRa, exploring their characteristics, applications, and practical implementations.
@@ -65,8 +65,7 @@ To understand and implement various IoT communication protocols including Wi-Fi,
 
 
 ### 2. Bluetooth Configuration
-
-
+![image]img/download (1).jpeg
 
 
 ### 4. LoRa Implementation
