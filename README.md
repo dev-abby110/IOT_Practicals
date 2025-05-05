@@ -62,7 +62,7 @@ This repository contains a collection of IoT (Internet of Things) laboratory exp
 - Arduino IDE 🔧
 - Node-RED 🔄
 - Mosquitto MQTT Broker 🐝
-- Python 3.x 🐍
+- Python 
 - ThingSpeak Account ☁️
 - Google Cloud Account ☁️
 
