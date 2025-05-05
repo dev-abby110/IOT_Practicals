@@ -46,39 +46,10 @@
      ```
 
 4. **Using Node-RED**
-   ```
-   PS C:\Users\rohit\OneDrive\Desktop> node-red
-   26 Apr 23:26:58 - [info]
-   
-   Welcome to Node-RED
-   ===================
-   
-   26 Apr 23:26:58 - [info] Node-RED version: v4.0.9
-   26 Apr 23:26:58 - [info] Node.js  version: v23.4.0
-   26 Apr 23:26:58 - [info] Windows_NT 10.0.26100 x64 LE
-   26 Apr 23:26:59 - [info] Loading palette nodes
-   26 Apr 23:26:59 - [info] Settings file  : C:\Users\rohit\.node-red\settings.js
-   26 Apr 23:26:59 - [info] Context store  : 'default' [module=memory]
-   26 Apr 23:26:59 - [info] User directory : C:\Users\rohit\.node-red
-   26 Apr 23:26:59 - [warn] Projects disabled : editorTheme.projects.enabled=false
-   26 Apr 23:26:59 - [info] Flows file     : C:\Users\rohit\.node-red\flows.json
-   26 Apr 23:26:59 - [info] Creating new flow file
-   26 Apr 23:26:59 - [warn]
-   
-   ---------------------------------------------------------------------
-   Your flow credentials file is encrypted using a system-generated key.
-   
-   If the system-generated key is lost for any reason, your credentials
-   file will not be recoverable, you will have to delete it and re-enter
-   your credentials.
-   
-   You should set your own key using the 'credentialSecret' option in
-   your settings file. Node-RED will then re-encrypt your credentials
-   file using your chosen key the next time you deploy a change.
-   ---------------------------------------------------------------------
-   
-   26 Apr 23:26:59 - [info] Server now running at http://127.0.0.1:1880/
-   ```
+  ![Alt text](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/Screenshot%202025-05-05%20120230.png)
+  
+  
+ 
    - **open This in browser** `http://127.0.0.1:1880/`
   
      ![image](https://github.com/user-attachments/assets/09c7f801-2f27-418b-bb2b-c100c0c94b3f)
@@ -118,7 +89,7 @@
       
          ![Screenshot 2025-04-27 000741](https://github.com/user-attachments/assets/fd2ae6fa-a433-454c-ba8d-d5243a755934)
          ![Screenshot 2025-04-26 234648](https://github.com/user-attachments/assets/17e3d79a-d2f5-448f-933b-23a45f8f0a28)
-         ![Screenshot 2025-04-27 000627](https://github.com/user-attachments/assets/08be99a5-368d-4809-8c52-db010658e03c)
+         ![Screenshot 2025-04-27 000627](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/Screenshot%202025-05-05%20121814.png)
      - Add an Inject node:
        - Configure `msg.payload` to be a string.
        - Add the message you want to send.
@@ -129,6 +100,6 @@
      - Click the Debug icon.
      - Click the message button to see the message output.
 
-![Screenshot 2025-04-27 002206](https://github.com/user-attachments/assets/44f18a2f-d079-4874-9a76-8df5c652acae)
+![Screenshot 2025-04-27 002206](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/Screenshot%202025-05-05%20120802.png)
 
    
