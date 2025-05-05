@@ -25,9 +25,9 @@ This practical demonstrates the implementation of Wireless Sensor Networks (WSN)
    - 3.3V regulation
    - Reset button
    - Status LEDs
-
+![Screenshot 2025-04-27 000627](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/xbee.jpeg)
 ### LoRa Components
-1. LoRa Module (RFM95W)
+1. LoRa Module
    - Frequency: 868/915 MHz
    - Range: Up to 2km urban, 15km suburban
    - Sensitivity: down to -148 dBm
@@ -39,7 +39,7 @@ This practical demonstrates the implementation of Wireless Sensor Networks (WSN)
    - SPI interface
    - Power management
    - Programming interface
-
+![Screenshot 2025-04-27 000627](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/lora.jpeg)
 
 
 ## Setup Instructions
