@@ -74,3 +74,5 @@ Feel free to contribute to this repository by:
 - Enhancing documentation
 ## License
 This project is open source and available for educational purposes.
+## Made with love - dev-abby110
+
