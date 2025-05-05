@@ -65,7 +65,7 @@ To understand and implement various IoT communication protocols including Wi-Fi,
 
 
 ### 2. Bluetooth Configuration
-![Alt text] img/download (1).jpeg
+![Alt text](https://github.com/dev-abby110/IOT_Practicals/blob/main/https://github.com/dev-abby110/IOT_Practicals/blob/8eb47cb4084cbbe4e1134431eb6fb4a524806ecd/img/download%20(1).jpeg/download%20(1).jpeg)
 
 ### 4. LoRa Implementation
 
