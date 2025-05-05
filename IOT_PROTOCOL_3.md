@@ -1,4 +1,4 @@
-# Study of IoT Communication Protocols 
+![image](https://github.com/user-attachments/assets/78aa1815-9c01-4e06-941a-bdbba62708c1)# Study of IoT Communication Protocols 
 
 ## Aim
 To understand and implement various IoT communication protocols including Wi-Fi, Bluetooth, ZigBee, and LoRa, exploring their characteristics, applications, and practical implementations.
@@ -62,20 +62,15 @@ To understand and implement various IoT communication protocols including Wi-Fi,
 ## Practical Implementation
 
 ### 1. Wi-Fi Implementation
-![Wi-Fi Setup](https://github.com/user-attachments/assets/7be6b3b0-89fb-4d21-97f1-f0bff7537dfd)
-*Image shows the ESP32 Wi-Fi module configuration with antenna and power connections*
+
 
 ### 2. Bluetooth Configuration
-![Bluetooth Module](https://github.com/user-attachments/assets/8812673c-cd74-4142-b95f-3b1a01ca33cf)
-*Image demonstrates the HC-05 Bluetooth module setup with voltage divider circuit*
 
-### 3. ZigBee Network Setup
-![ZigBee Network](https://github.com/user-attachments/assets/78ef20f3-47c5-4e07-958f-031cf469c63a)
-*Image shows ZigBee coordinator and end device configuration in a mesh network*
+
+
 
 ### 4. LoRa Implementation
-![LoRa Setup](https://github.com/user-attachments/assets/4806af6a-9f1f-4534-ac01-595b2545481f)
-*Image displays LoRa module connection with Arduino and antenna setup*
+
 
 ## Implementation Steps
 
